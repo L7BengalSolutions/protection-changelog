@@ -1,0 +1,17 @@
+# 12 January 2024
+
+<table style="width: 100%">
+  <thead>
+    <tr>
+      <th>Rule ID</th>
+      <th>Description</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#1 (Global L4)</td>
+      <td>Adaptive DDoS Protection for IPv4 GRE.</td>
+      <td>Update IPv4 GRE profiling rule tag and threshold.</td>
+  </tbody>
+</table>
